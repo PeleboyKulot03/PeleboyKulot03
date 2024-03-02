@@ -1,9 +1,13 @@
-👋 Hi, I’m Julius Andrie Antonio a computer science student proficient in android java with robust  Object Oriented Programming and data structures understanding. 
+<br><h2>:curly_haired_man: Get to know me!</h2>:raising_hand_man: Hi, I’m Julius Andrie Antonio a computer science student proficient in android java with robust  Object Oriented Programming and data structures understanding.<br><br>
+:love_you_gesture: I am passionate in developing applications that solves real world problems using my skills in Android using (Java and Firebase), Desktop with (Java, Java Swing, Java AWT, JavaFX, python, Tkinter, MongoDB, Firebase, and MYSQL), and IoT using (Arduino and Raspberry Pi) development.
+<br><h2>:man_technologist: List of technologies I use</h2>
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,opencv,js,jquery,html,css,firebase,mongodb,sqlite,mysql,raspberrypi,arduino,gradle&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,eclipse,pycharm,git,github,idea&theme=light)](https://skillicons.dev)
 
-<!---
-PeleboyKulot03/PeleboyKulot03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
 
 
 
